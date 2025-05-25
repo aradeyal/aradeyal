@@ -1,8 +1,12 @@
-# 🧑‍💻 Arad Eyal
+<h1 align="center">🧑‍💻 Arad Eyal</h1>
 
-### 👋 Hi there, I'm Arad Eyal!
+---
 
-I'm a passionate software engineer who loves building full-stack projects and learning new technologies.
+### 👋 Hi there!
+
+I'm **Arad Eyal**, a dedicated software developer with a strong interest in full-stack development, embedded systems, and building practical applications that make a difference.  
+I enjoy creating projects that combine clean design, efficient backend logic, and modern frontend frameworks.  
+Right now, I'm focused on leveling up my skills in web development with technologies like React, Node.js, and MongoDB — while continuing to explore the world of microcontrollers and C programming for low-level systems.
 
 ---
 
